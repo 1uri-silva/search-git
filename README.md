@@ -10,8 +10,8 @@
 ``` bash
 git clone https://github.com/rd-easy/search-git.git
 
-cd auth-app && npm install (ou yarn add)
+cd search-git && yarn add
 
-expo start or yarn(npm) start
+yarn start
 ```
 ---
